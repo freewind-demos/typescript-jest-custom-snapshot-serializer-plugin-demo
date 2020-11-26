@@ -1,7 +1,7 @@
-TypeScript Jest Demo
-===========================
+TypeScript Jest Custom Snapshot Serializer Plugin Demo
+===============================================
 
-使用typescript就需要在`jest.config.js`中使用`ts-jest`作为`preset`
+如何自定义一个Jest的Snapshot Serializer Plugin
 
 ```
 npm install

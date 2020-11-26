@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test snapshot normal 1`] = `
+Object {
+  "aaa": 111,
+  "array": Array [
+    1,
+    2,
+    3,
+  ],
+}
+`;
+
+exports[`test snapshot rawJson 1`] = `
+{
+  "aaa": 111,
+  "array": [
+    1,
+    2,
+    3
+  ]
+}
+`;
